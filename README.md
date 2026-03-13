@@ -1,2 +1,5 @@
 # seq-matcher
-A simple realization for sequence alignment.
+
+上课学到这一块，感觉可实现就写着玩了。可以避免装很大的软件，就能在本地实现序列对齐。
+
+在思考能不能实现多个序列对齐。
